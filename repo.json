@@ -1,0 +1,46 @@
+{
+    "repositories": [
+        {
+            "name": "ZygiskNext",
+            "github_repo": "Dr-TSNG/ZygiskNext",
+            "local_file": "ZygiskNext.zip",
+            "version_pattern": "ZygiskNext-(.*)\\.zip",
+            "asset_pattern": "ZygiskNext-.*\\.zip"
+        },
+        {
+            "name": "Sui",
+            "github_repo": "RikkaApps/Sui",
+            "local_file": "Sui.apk",
+            "version_pattern": "Sui-(.*)\\.apk",
+            "asset_pattern": "Sui-.*\\.apk"
+        },
+        {
+            "name": "Tricky-Addon-Update-Target-List",
+            "github_repo": "KOWX712/Tricky-Addon-Update-Target-List",
+            "local_file": "TrickyAddon.zip",
+            "version_pattern": "TrickyAddon-(.*)\\.zip",
+            "asset_pattern": "TrickyAddon-.*\\.zip"
+        },
+        {
+            "name": "Zygisk-Assistant",
+            "github_repo": "snake-4/Zygisk-Assistant",
+            "local_file": "ZygiskAssistant.zip",
+            "version_pattern": "ZygiskAssistant-(.*)\\.zip",
+            "asset_pattern": "ZygiskAssistant-.*\\.zip"
+        },
+        {
+            "name": "LSPosed",
+            "github_repo": "JingMatrix/LSPosed",
+            "local_file": "LSPosed.zip",
+            "version_pattern": "LSPosed-(.*)\\.zip",
+            "asset_pattern": "LSPosed-.*\\.zip"
+        },
+        {
+            "name": "LSPosed.github.io",
+            "github_repo": "LSPosed/LSPosed.github.io",
+            "local_file": "LSPosedGithub.zip",
+            "version_pattern": "LSPosedGithub-(.*)\\.zip",
+            "asset_pattern": "LSPosedGithub-.*\\.zip"
+        }
+    ]
+}
